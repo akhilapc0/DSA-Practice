@@ -7,6 +7,7 @@ This repository contains my Data Structures and Algorithms practice.
 - Strings
 - Linear Search
 - Binary Search
+- LinkedList
 - Recursion
 
 ## Week 2
